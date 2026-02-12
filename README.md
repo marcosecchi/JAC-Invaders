@@ -1,5 +1,6 @@
 # JAC Invaders
 _Un progetto per ITS Jobs Academy_
+_Versione Unity: 6000.3.4_
 
 ## Panoramica del Gioco
 _Genere_: Arcade / Sparatutto
