@@ -3,8 +3,9 @@ _Un progetto per ITS Jobs Academy_
 _Versione Unity: 6000.3.4_
 
 ## Panoramica del Gioco
-_Genere_: Arcade / Sparatutto
-_Piattaforma_: Web
+* _Genere_: Arcade / Sparatutto
+* _Piattaforma_: Web
+
 Descrizione del Gioco:
 _JAC Invaders_ è uno sparatutto arcade 2D ispirato ai classici giochi retrò come Space Invaders, Gyruss e Asteroids. Il giocatore controlla un’astronave che deve difendersi da ondate di nemici in arrivo ed evitare ostacoli nello spazio. Il gameplay è semplice, focalizzato su sparare, schivare e accumulare punti.
 
