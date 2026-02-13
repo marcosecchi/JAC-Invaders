@@ -11,9 +11,9 @@ _JAC Invaders_ è uno sparatutto arcade 2D ispirato ai classici giochi retrò co
 
 ## Meccaniche di Gioco
 
-_Controlli del Giocatore_: Muovere l’astronave a sinistra e a destra (o in 360 gradi se si preferisce) tramite Rigidbody
-_Sparare_: Premere un tasto per sparare proiettili e distruggere i nemici
-_Opzionale_: spinta avanti/indietro per il movimento (come in Asteroids)
+* _Controlli del Giocatore_: Muovere l’astronave a sinistra e a destra (o in 360 gradi se si preferisce) tramite Rigidbody
+* _Sparare_: Premere un tasto per sparare proiettili e distruggere i nemici
+* _Opzionale_: spinta avanti/indietro per il movimento (come in Asteroids)
 
 ## Obiettivi
 
